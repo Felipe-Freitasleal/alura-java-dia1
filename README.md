@@ -1,4 +1,4 @@
-# **Cosumindo API com Java**
+# **Consumindo API com Java**
 
 Este projeto consiste no consumo da API do imDb. O consumo dessa tem fins didáticos, sendo feito durante a participação do
 primeiro dia do evento "Imersão Java Alura".
