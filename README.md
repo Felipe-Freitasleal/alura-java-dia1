@@ -11,6 +11,7 @@ primeiro dia do evento "Imersão Java Alura".
 ## **Funcionalidades do Projeto**
  - [x] Faz uma requisição dos 250 filmes com melhor avaliados no imDb
  - [x] Exibe titulo, imagem e classificação no terminal dos 250 filmes com melhor avaliação no imDb
+ - [x] Criar stikers (figurinhas) dos posters dos filmes do imDb
 
 ## **Documentação da API ** 
 
